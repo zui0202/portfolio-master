@@ -1,0 +1,8 @@
+.Portfolio_ProjectLink .ProjectLink_Link {
+  text-decoration: none;
+  color: gray;
+}
+
+.Portfolio_ProjectLink .ProjectLink_Link:hover {
+  color: black;
+}

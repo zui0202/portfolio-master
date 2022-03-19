@@ -1,0 +1,14 @@
+.Portfolio_AboutMeText .AboutMeText_Heading {
+  font-size: 1.2rem;
+  color: gray;
+}
+
+@media (min-width: 768px) {
+  .Portfolio_AboutMeText .AboutMeText_Heading {
+    font-size: 1.4rem;
+  }
+  
+  .Portfolio_AboutMeText .AboutMeText_Main {
+    font-size: 1.2rem;
+  }
+}
