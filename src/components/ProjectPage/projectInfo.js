@@ -35,7 +35,15 @@ const projectInfo = [
     pageLink: 'https://zui0202.github.io/redux-book-report/',
     repoLink: 'https://github.com/zui0202/redux-book-report',
   },
-  
+  {
+    id: 5,
+    imgURL: 'https://user-images.githubusercontent.com/65958007/159386612-60c974ce-0712-420c-b506-c59c89e78f9d.png',
+    altText: 'Online Shop thumbnail image',
+    title: 'Online Shop',
+    desc: 'MERN 스택으로 제작한 온라인 쇼핑몰 웹입니다. 현재 heroku를 이용하여 배포 후 디버깅 단계에 있으며, 로그인 및 회원가입, 상품 업로드 페이지는 정상 동작하나 상품 이미지를 불러오는 데 있어 에러가 발생하여 수정 중입니다.',
+    pageLink: 'https://radiant-basin-82589.herokuapp.com/',
+    repoLink: 'https://github.com/zui0202/mern-stack-onliine-shop-master',
+  },
 ];
 
 export default projectInfo;
